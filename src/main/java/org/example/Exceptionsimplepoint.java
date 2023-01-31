@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.*;
 import java.util.logging.*;
-class Simplepoint implements Cloneable{
+class Simplepoint implements cloneable{
     String xcoordinates;
     String ycoordinates;
     String x="10.9";
